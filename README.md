@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shonsakuri&show_icons=true&locale=en" alt="shonsakuri" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/907644492419571752?theme=dark&bg=492042&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/907644492419571752)
+[![Discord Presence](https://lanyard.cnrad.dev/api/595741048119099413?theme=dark&bg=492042&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/595741048119099413)
