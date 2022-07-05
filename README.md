@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shon</h1>
-[![Discord Presence](https://lanyard.cnrad.dev/api/595741048119099413?theme=dark&bg=492042&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/595741048119099413)
 <h3 align="center">A developer from israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shonsakuri&label=Profile%20views&color=0e75b6&style=flat" alt="shonsakuri" /> </p>
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shonsakuri&show_icons=true&locale=en&layout=compact" alt="shonsakuri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shonsakuri&show_icons=true&locale=en" alt="shonsakuri" /></p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/907644492419571752?theme=dark&bg=492042&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/907644492419571752)
