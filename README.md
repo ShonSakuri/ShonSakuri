@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shon</h1>
+[![Discord Presence](https://lanyard.cnrad.dev/api/595741048119099413?theme=dark&bg=492042&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/595741048119099413)
 <h3 align="center">A developer from israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shonsakuri&label=Profile%20views&color=0e75b6&style=flat" alt="shonsakuri" /> </p>
