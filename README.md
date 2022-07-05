@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **https://discord.gg/CBd2CFHV72**
+- 📫 How to reach me **https://discord.gg/aJTFyZwvVM**
 
 - 📄 Know about my experiences [soon....](soon....)
 
